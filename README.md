@@ -31,21 +31,14 @@ Build a credit scoring system that predicts whether a loan applicant is likely t
 - ✅ Feature Importance (Random Forest)
 - ✅ 5-Fold Cross Validation
 
-## 🚀 Run on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
-1. Upload `credit_scoring_model.ipynb` to Colab
-2. `Runtime → Run All`
-3. No dataset download needed ✅
-
 ## 🛠️ Tech Stack
 `Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
 ## 📁 Output Files
 | File | Description |
 |------|-------------|
-| `task1_eda.png` | EDA Dashboard |
-| `task1_results.png` | Model Performance Dashboard |
+| `"C:\Users\Zen book\Downloads\task1_eda.png"` | EDA Dashboard |
+| `"C:\Users\Zen book\Downloads\task1_results.png"` | Model Performance Dashboard |
 
 ---
 
