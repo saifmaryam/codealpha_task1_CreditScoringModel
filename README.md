@@ -9,10 +9,10 @@ Predict an individual's **creditworthiness** (Good / Bad credit) using past fina
 ## 📊 Results
 
 ### EDA Dashboard
-![EDA Dashboard](task1_eda.png)
+![EDA Dashboard](Eda.png)
 
 ### Model Performance Dashboard
-![Model Results](task1_results.png)
+![Model Results](Results.png)
 
 ---
 
