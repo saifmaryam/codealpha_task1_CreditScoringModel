@@ -6,13 +6,22 @@ Predict an individual's **creditworthiness** (Good / Bad credit) using past fina
 
 ---
 
-## 📌 Objective
-Build a credit scoring system that predicts whether a loan applicant is likely to repay or default, using supervised machine learning.
+## 📊 Results
 
-## 📊 Dataset
+### EDA Dashboard
+![EDA Dashboard](task1_eda.png)
+
+### Model Performance Dashboard
+![Model Results](task1_results.png)
+
+---
+
+## 📌 Objective
+Build a credit scoring system that predicts whether a loan applicant is likely to repay or default.
+
+## 🗂️ Dataset
 **German Credit Dataset** — auto-loaded via `sklearn.datasets`
 - 1000 samples | 20 features
-- Features: credit amount, duration, age, employment, housing, etc.
 
 ## 🤖 Models Compared
 | Model | ROC-AUC | F1-Score |
@@ -24,22 +33,16 @@ Build a credit scoring system that predicts whether a loan applicant is likely t
 
 ## 📈 Key Features
 - ✅ Full EDA (distributions, boxplots, class balance)
-- ✅ Label Encoding + StandardScaler pipeline
 - ✅ 4 models trained and compared
-- ✅ ROC Curves for all models
-- ✅ Confusion Matrix
-- ✅ Feature Importance (Random Forest)
+- ✅ ROC Curves + Confusion Matrix + Feature Importance
 - ✅ 5-Fold Cross Validation
+
+## 🚀 Run on Google Colab
+1. Upload `credit_scoring_model.ipynb` to Colab
+2. `Runtime → Run All` ✅
 
 ## 🛠️ Tech Stack
 `Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-## 📁 Output Files
-| File | Description |
-|------|-------------|
-| `"C:/Users/Zen book/Downloads/task1_eda.png"` | EDA Dashboard |
-| `"C:/Users/Zen book/Downloads/task1_results.png"` | Model Performance Dashboard |
-
 ---
-
 *Built with ❤️ during CodeAlpha ML Internship*
