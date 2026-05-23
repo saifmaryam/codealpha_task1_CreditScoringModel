@@ -37,8 +37,8 @@ Build a credit scoring system that predicts whether a loan applicant is likely t
 ## 📁 Output Files
 | File | Description |
 |------|-------------|
-| `"C:\Users\Zen book\Downloads\task1_eda.png"` | EDA Dashboard |
-| `"C:\Users\Zen book\Downloads\task1_results.png"` | Model Performance Dashboard |
+| `"C:/Users/Zen book/Downloads/task1_eda.png"` | EDA Dashboard |
+| `"C:/Users/Zen book/Downloads/task1_results.png"` | Model Performance Dashboard |
 
 ---
 
