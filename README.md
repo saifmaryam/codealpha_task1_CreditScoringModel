@@ -9,7 +9,7 @@ Predict an individual's **creditworthiness** (Good / Bad credit) using past fina
 ## 📊 Results
 
 ### EDA Dashboard
-![EDA Dashboard](task1_eda.png)
+![EDA Dashboard](https://github.com/user-attachments/assets/8fbc6ad5-b754-4977-b2c7-53fca85d52a2)
 
 ### Model Performance Dashboard
 ![Model Results](task1_results.png)
